@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.twitter.stream.DeleteStatus"/>
+<classEntry path="com.twitter.stream.Geo"/>
+<classEntry path="com.twitter.stream.Limit"/>
+<classEntry path="com.twitter.stream.Logger"/>
+<classEntry path="com.twitter.stream.ScrubGeo"/>
+<classEntry path="com.twitter.stream.Status"/>
+<classEntry path="com.twitter.stream.TwitterStream"/>
+<classEntry path="com.twitter.stream.TwitterStreamEvent"/>
+<classEntry path="com.twitter.stream.User"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
